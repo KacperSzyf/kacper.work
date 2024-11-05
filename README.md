@@ -1,2 +1,4 @@
 # kacper.work
-Hopefully this is going to be a nice portfolio with some light blogging.
+Hello!
+
+This is hopefully my portfolio/cv/blog that I actully maintain and not abandon!
