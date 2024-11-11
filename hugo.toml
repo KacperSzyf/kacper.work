@@ -1,0 +1,37 @@
+baseURL = 'https://kacper.work/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+theme = "gokarna"
+title = 'Kacper | Dev'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = ""
+    pre = "<span data-feather='home'></span>"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    pre = "<span data-feather='book'></span>"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    pre = "<span data-feather='tag'></span>"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/KacperSzyf"
+    pre = "<span data-feather='github'></span>"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "cv"
+    url = "/cv/"
+    pre = "<span data-feather='book'></span>"
+    weight = 5
