@@ -3,7 +3,17 @@ languageCode = 'en'
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 theme = "gokarna"
-title = 'Kacper | Dev'
+title = 'Kacper | /ˈkæspər/'
+
+[params]
+  description = """
+   Hey! I’m Kacper, a software engineer with a few years in the industry. Right now,
+   I’m working as a consultant, so my tech stack is all over the place—which I love! 
+   It keeps me learning, adapting, and always on the lookout for the next big challenge.
+   """
+
+   avatarURL = "images/ghost.png"
+   avatarSize = "size-m"
 
 [menu]
   [[menu.main]]
@@ -41,3 +51,5 @@ title = 'Kacper | Dev'
     url = "https://github.com/KacperSzyf"
     pre = "<span data-feather='github'></span>"
     weight = 6
+    [menu.main.params]
+        newPage = true
