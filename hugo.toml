@@ -15,6 +15,8 @@ title = 'Kacper | /ˈkæspər/'
    avatarURL = "images/ghost.png"
    avatarSize = "size-m"
 
+   favicon = true
+
 [menu]
   [[menu.main]]
     name = "Home"
