@@ -1,0 +1,4 @@
+baseURL = 'https://kacper.work/'
+languageCode = 'en-gb'
+title = 'kacper.work'
+theme = 'PaperMod'
