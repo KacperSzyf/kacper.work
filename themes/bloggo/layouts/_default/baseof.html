@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" 
-          content="width=device-width, initial-scale=1.0">
-      <title>kacper.work</title>
+    {{ partial "head.html" . }}
   </head>
   <body>
+    <nav>
+        <a href="/">home</a>
+        <a href="/posts">blog</a>
+        <a href="/projects">projects</a>
+        <a href="/tags">tags</a>
+    </nav>
     {{ block "main" . }}
     {{ end }}
   </body>

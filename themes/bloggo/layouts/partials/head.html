@@ -1,0 +1,10 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{{ $work := ".work"}}
+<title>
+    {{ if .IsHome }} home.work 
+    {{ else if eq .Page.Title "Posts" }} posts{{$work}}
+    {{ else if eq .Page.Title "Projects"}} projects{{$work}} 
+    {{ else if eq .Page.Title "Tags" }} tags{{$work}} 
+    {{ end }}
+</title>
