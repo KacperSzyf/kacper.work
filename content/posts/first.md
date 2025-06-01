@@ -6,3 +6,8 @@ tags = ['first', 'page']
 +++
 
 This is a first post!
+
+<!--more-->
+
+This is the second line of the post !
+sdfghjk
