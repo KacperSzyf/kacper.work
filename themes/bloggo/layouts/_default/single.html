@@ -1,6 +1,5 @@
 {{ define "main" }}
-    <h2>{{ .Title }} </h2>
-    <p>{{ .PublishDate | time.Format ":date_medium" }} {{ printf "Reading Time: %d minutes" .ReadingTime }}</p>
-    <p>{{ partial "tags.html" .}}</p>
-    <div>{{ .Content }}</div>
+<h2>{{ .Title }}</h2>
+{{- partial "metadata.html" . -}}
+<div>{{ .Content }}</div>
 {{ end }}

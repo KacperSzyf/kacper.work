@@ -1,0 +1,5 @@
+<p class="date">{{ .PublishDate | time.Format ":date_medium" }}</p>
+<p class="readingTime">{{ printf "Reading Time: %d minutes" .ReadingTime }}</p>
+<p class="tags">
+  {{ if .Params.Tags }} tags: {{ partial "tags.html" . -}} {{ end }}
+</p>

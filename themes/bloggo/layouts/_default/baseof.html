@@ -1,16 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    {{ partial "head.html" . }}
-  </head>
+  {{- partial "header.html" . -}}
   <body>
-    <nav>
-        <a href="/">home</a>
-        <a href="/posts">blog</a>
-        <a href="/projects">projects</a>
-        <a href="/tags">tags</a>
-    </nav>
-    {{ block "main" . }}
-    {{ end }}
+    <div id="content">{{- block "main" . }} {{- end }}</div>
   </body>
+  {{- partial "footer.html" . -}}
 </html>

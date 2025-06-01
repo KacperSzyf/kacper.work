@@ -1,0 +1,19 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{{ $work := ".work"}}
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ absURL `styles/style.css` }}">
+  <title>
+    {{ if .IsHome }} home.work {{ else if eq .Page.Title "Posts" }}
+    posts{{$work}} {{ else if eq .Page.Title "Projects"}} projects{{$work}} {{
+    else if eq .Page.Title "Tags" }} tags{{$work}} {{ end }}
+  </title>
+
+  <div class="logo"></div>
+  <nav class="navbar">
+    <a href="/">home</a>
+    <a href="/posts">blog</a>
+    <a href="/projects">projects</a>
+    <a href="/tags">tags</a>
+  </nav>
+</head>
