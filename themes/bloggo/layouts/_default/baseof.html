@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-  {{- partial "header.html" . -}}
-  <body>
-    <div id="content">{{- block "main" . }} {{- end }}</div>
-  </body>
-  {{- partial "footer.html" . -}}
+  <div class="grid-wrapper">
+    {{- partial "header.html" . -}}
+    {{- block "main" . }} {{- end }}
+    {{- partial "footer.html" . -}}
+  </div>
 </html>
