@@ -1,0 +1,16 @@
+{{ $repos := .Site.Data.projects }}
+<div class="middle">
+  {{ range $repos }}
+  <div>
+    <h2>
+      Project: 
+      <a href="{{ .html_url }}" target="_blank" rel="noopener noreferrer"
+        >{{ .name }}
+      </a>
+    </h2>
+    <p>{{ .description | default "No description available." }}</p>
+  </div>
+  <p class="tech">Tech: {{ .language | default "N/A" }}</p>
+  <br><br>
+  {{ end }}
+</div>

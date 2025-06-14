@@ -6,21 +6,13 @@
     <description>Recent content on kacper</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:53:20 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Tue, 10 Jun 2025 13:53:20 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate&#xA;libero erat, vel iaculis arcu laoreet non. Aenean ac sem nisi. Aenean ut&#xA;scelerisque est. Donec elit quam, semper et feugiat ut, gravida a nisl.&#xA;Suspendisse feugiat molestie placerat. Ut quis tortor quis sapien consequat&#xA;ultrices in sed elit. Phasellus varius ultrices metus et elementum.&#xA;Pellentesque ut nisi non libero ullamcorper fermentum. Mauris id ipsum&#xA;pulvinar, finibus quam at, condimentum sapien. Fusce scelerisque fringilla&#xA;blandit. Cras tincidunt gravida ipsum tincidunt viverra.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Tue, 10 Jun 2025 13:52:49 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate&#xA;libero erat, vel iaculis arcu laoreet non. Aenean ac sem nisi. Aenean ut&#xA;scelerisque est. Donec elit quam, semper et feugiat ut, gravida a nisl.&#xA;Suspendisse feugiat molestie placerat. Ut quis tortor quis sapien consequat&#xA;ultrices in sed elit. Phasellus varius ultrices metus et elementum.&#xA;Pellentesque ut nisi non libero ullamcorper fermentum. Mauris id ipsum&#xA;pulvinar, finibus quam at, condimentum sapien. Fusce scelerisque fringilla&#xA;blandit. Cras tincidunt gravida ipsum tincidunt viverra.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;div class=&#34;middle&#34;&gt;&#xA;  &#xA;  &lt;div&gt;&#xA;    &lt;h2&gt;&#xA;      Project: &#xA;      &lt;a href=&#34;https://github.com/KacperSzyf/kacper.work&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;        &gt;kacper.work&#xA;      &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;    &lt;p&gt;The primary purpose of this repository is to serve as a personal portfolio with some light blogging&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;tech&#34;&gt;Tech: Go, HUGO, JS, HTML, CSS&lt;/p&gt;&#xA;  &lt;br&gt;&lt;br&gt;&#xA;  &#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

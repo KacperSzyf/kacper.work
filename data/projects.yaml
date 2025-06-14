@@ -1,0 +1,4 @@
+- name: "kacper.work"
+  html_url: "https://github.com/KacperSzyf/kacper.work"
+  description: "The primary purpose of this repository is to serve as a personal portfolio with some light blogging"
+  language: "Go, HUGO, JS, HTML, CSS"

@@ -6,21 +6,6 @@
     <description>Recent content in Posts on kacper</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:53:20 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Tue, 10 Jun 2025 13:53:20 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate&#xA;libero erat, vel iaculis arcu laoreet non. Aenean ac sem nisi. Aenean ut&#xA;scelerisque est. Donec elit quam, semper et feugiat ut, gravida a nisl.&#xA;Suspendisse feugiat molestie placerat. Ut quis tortor quis sapien consequat&#xA;ultrices in sed elit. Phasellus varius ultrices metus et elementum.&#xA;Pellentesque ut nisi non libero ullamcorper fermentum. Mauris id ipsum&#xA;pulvinar, finibus quam at, condimentum sapien. Fusce scelerisque fringilla&#xA;blandit. Cras tincidunt gravida ipsum tincidunt viverra.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Tue, 10 Jun 2025 13:52:49 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate&#xA;libero erat, vel iaculis arcu laoreet non. Aenean ac sem nisi. Aenean ut&#xA;scelerisque est. Donec elit quam, semper et feugiat ut, gravida a nisl.&#xA;Suspendisse feugiat molestie placerat. Ut quis tortor quis sapien consequat&#xA;ultrices in sed elit. Phasellus varius ultrices metus et elementum.&#xA;Pellentesque ut nisi non libero ullamcorper fermentum. Mauris id ipsum&#xA;pulvinar, finibus quam at, condimentum sapien. Fusce scelerisque fringilla&#xA;blandit. Cras tincidunt gravida ipsum tincidunt viverra.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
   </channel>
 </rss>
