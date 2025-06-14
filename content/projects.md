@@ -1,5 +1,5 @@
 ---
-type: "projects"
+type: "project"
 layout:: "single"
 ---
 {{< projects >}}
