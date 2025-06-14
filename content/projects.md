@@ -1,5 +1,5 @@
 ---
 type: "project"
-layout:: "singleProject"
+layout:: "single"
 ---
 {{< projects >}}
